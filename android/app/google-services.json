@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359826654962",
+    "project_id": "flash-chat-1ea20",
+    "storage_bucket": "flash-chat-1ea20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359826654962:android:d8de63adb7b3312050f26b",
+        "android_client_info": {
+          "package_name": "co.Prasoon.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359826654962-pt005dv6jajcl6mr5ng88gsos614q59u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp2BggRejluMRadigTI5XHCIPK4c0yl0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359826654962-pt005dv6jajcl6mr5ng88gsos614q59u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
